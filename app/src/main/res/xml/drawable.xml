@@ -10,6 +10,7 @@
 <item drawable="mullvad_vpn" />
 <item drawable="proton_drive" />
 <item drawable="splash" />
+<item drawable="subtracks" />
 <item drawable="tuta" />
 
 <category title="Faces" />
@@ -202,6 +203,7 @@
 <item drawable="shazam" />
 <item drawable="soundcloud" />
 <item drawable="spotify" />
+<item drawable="subtracks" />
 <item drawable="vlc" />
 <item drawable="ymusic" />
 <item drawable="youtube_music" />

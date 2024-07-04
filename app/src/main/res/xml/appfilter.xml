@@ -2805,6 +2805,9 @@
     <!-- Tata 1mg -->
     <item component="ComponentInfo{com.aranoah.healthkart.plus/com.aranoah.healthkart.plus.startup.splash.SplashActivity}" drawable="tata_1mg" />
 
+    <!-- Subtracks -->
+    <item component="ComponentInfo{com.subtracks/com.subtracks.MainActivity}" drawable="subtracks" />
+
 	<!-- Suntimes Alarms -->
 	<item component="ComponentInfo{com.forrestguice.suntimeswidget/com.forrestguice.suntimeswidget.alarmclock.ui.AlarmClockActivityLauncher}" drawable="suntimes_alarms" />
 
