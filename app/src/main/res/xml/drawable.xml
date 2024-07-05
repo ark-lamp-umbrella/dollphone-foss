@@ -7,6 +7,7 @@
 <item drawable="bluesky" />
 <item drawable="db_navigator" />
 <item drawable="librera_fd" />
+<item drawable="mindustry" />
 <item drawable="mullvad_vpn" />
 <item drawable="proton_drive" />
 <item drawable="splash" />
@@ -369,6 +370,7 @@
 <item drawable="lichess"/>
 <item drawable="lingo_classic" />
 <item drawable="lingo_itv" />
+<item drawable="mindustry" />
 <item drawable="minecraft" />
 <item drawable="minesweeper" />
 <item drawable="mitch" />
